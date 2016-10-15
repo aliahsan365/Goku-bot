@@ -1,1 +1,0 @@
-goku_eda_bot_fib
