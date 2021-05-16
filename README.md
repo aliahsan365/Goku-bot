@@ -1,2 +1,1 @@
-# Goku_EDA
-BOT DEL JUEGO
+Goku bot
